@@ -1,0 +1,26 @@
+# ignore all .o files
+*.o
+
+# ignore all .txt files
+*.txt
+
+# ignore all image files
+*.jpeg
+*.jpg
+*.raw
+
+# ignore all .db files
+*.db
+
+# ignore all .csv files
+*.csv
+*.tsv
+
+# ignore following folders
+**/dictionaries
+**/keys
+**/texts
+**/databases
+**/sequences
+
+
